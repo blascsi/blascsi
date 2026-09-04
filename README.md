@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Attila, but you can call me Blascsi or Ambi!
-- 🗣 Talk to me about anything Software Engineering (especially video and streaming!) related, Martial arts, Fantasy books, Dogs, or just anything you want!
-- 🌱 I’m currently learning anything Back-End and Infra development related and drawing.
-- 📫 Feel free to reach out to me on [twitter](http://twitter.com/blascsi), or you can find my CV [here](cv.blascsak.com).
+- 🗣 Talk to me about anything Software Engineering related, Martial arts, Fantasy books, Dogs, or just anything you want!
+- 🌱 I’m currently learning Elixir, with Phoenix and the Ash Framework, while building some hobby projects in it.
+- 📫 Feel free to reach out to me over email, or you can find my CV [here](https://blog.blascsak.com/resume).
